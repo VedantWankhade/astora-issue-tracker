@@ -1,0 +1,6 @@
+[submodule "astora-issue-tracker-api"]
+	path = astora-issue-tracker-api
+	url = https://github.com/VedantWankhade/astora-issue-tracker-api.git
+[submodule "astora-issue-tracker-ui"]
+	path = astora-issue-tracker-ui
+	url = https://github.com/VedantWankhade/astora-issue-tracker-ui.git
